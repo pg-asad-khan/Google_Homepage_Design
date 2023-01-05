@@ -1,0 +1,135 @@
+.ggllogo{
+    text-align: center;
+    margin: 60px;
+}
+
+.righticon{
+    text-align: center;
+justify-content: flex-end;
+padding-right: 55px;
+display: flex;
+padding-top: 0px;
+padding-bottom: 0px;
+list-style: none;
+gap: 20px;
+font-size: 13px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.gmail{
+    margin-top: -190px;
+}
+
+.image{
+    margin-top: -190px; 
+}
+
+.gglap{
+    margin-top: -188px;
+}
+
+.searchnav{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    list-style: none;
+    gap: 8px;
+}
+
+.serch{
+font-size: 30px;
+border-radius: 20px;
+padding-left: 30px;
+padding-right: 60px;
+}
+.searchmcs{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.magnify{
+position: absolute;
+top: 228px;
+margin-right: 415px;
+}
+
+.mic{
+    position: absolute;
+    top: 228px;  
+    margin-left: 360px;
+}
+
+.camera{
+    position: absolute;
+    top: 228px;  
+    margin-left: 415px;
+}
+
+.ggl2nd{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ggl3rd{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    gap: 4px;
+}
+
+.bengali a{
+    text-decoration: none;
+}
+
+.bengali a:hover{
+    text-decoration: underline;
+}
+
+.footer{
+    display: flex;
+    gap: 20px;
+    background-color: rgb(247, 243, 243);
+    padding-left: 30px;
+    border: 0.30px solid rgb(236, 230, 230);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.BD{
+    font-family: Arial, Helvetica, sans-serif;
+margin-top: 195px;
+padding-left: 30px;
+border: 0.30px solid rgb(236, 230, 230);
+background-color: rgb(247, 243, 243);
+}
+
+.privacy{
+    margin-left: 700px;
+}
+
+.signin{
+    margin-top: -194px;
+    background-color: blue;
+    padding: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 3px;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
